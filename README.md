@@ -2,7 +2,7 @@
 This simple script will introduce a new type of malware that will turn off the firewall, start an HTTP server, forward its port through ngrok, and send the URL of the server through a Telegram bot.
 
 
-You will need to create a new Telegram BOT. Follow the steps here to create one! [Follow the steps](https://core.telegram.org/bots#6-botfather)
+You will need to create a new Telegram BOT. [Follow the steps](https://core.telegram.org/bots#6-botfather) the steps here to create one⚡
 
 # How to setup
 
