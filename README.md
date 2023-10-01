@@ -18,7 +18,7 @@ Before running this program edit the payload.py file
 # Install dependencies 
 $ python3 , pip
 $ py -3 -m pip install -r requirements.txt
-$ in order to change the drive you accesing use this parametre change_drive?drive=$Drive
+# in order to change the drive you accesing use this parameter change_drive?drive=$Drive
 
 # Building the payload
 
