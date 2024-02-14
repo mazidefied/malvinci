@@ -1,4 +1,4 @@
-# Malware Made By George (Usdchef)
+# Malware Made By M A Z I the Sage
 
 import urllib.parse
 from http.server import BaseHTTPRequestHandler, HTTPServer, SimpleHTTPRequestHandler
